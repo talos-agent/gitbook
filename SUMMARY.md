@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Talos](README.md)
+* [Tokenomics](tokenomics/README.md)
+  * [Launch](tokenomics/launch.md)
+  * [Staking: The Stag Hunt](tokenomics/staking-the-stag-hunt.md)
+  * [Bonding](tokenomics/bonding.md)
+  * [Talos ($T)](tokenomics/talos-usdt.md)
+* [Vault Strategies](vault-strategies/README.md)
+  * [Maximizing Treasury Efficiency](vault-strategies/maximizing-treasury-efficiency.md)
+  * [Potential Yield Improvements](vault-strategies/potential-yield-improvements.md)
+* [Governance](governance/README.md)
+  * [Delegates](governance/delegates.md)
+* [Upgradeability](upgradeability.md)
+* [Roadmap](roadmap.md)
+* [Conclusion](conclusion.md)
