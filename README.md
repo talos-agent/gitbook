@@ -1,35 +1,33 @@
-# Talos
+# Welcome to Talos
 
-## General Introduction
+Talos is a decentralized finance (DeFi) protocol that uses AI to manage its treasury and gives the community control over its direction. Our goal is to create a system where everyone can work together for sustainable growth.
 
-Talos is a pioneering protocol in decentralized finance (DeFi) that seamlessly blends advanced AI-driven treasury management with community-focused governance. Designed for a new era of financial innovation, Talos empowers users to participate in a dynamic ecosystem where collective action drives sustainable growth.
+## What Makes Talos Different?
 
-### Core Elements
+### AI-Powered Treasury
 
-#### AI-Managed Treasury
+Talos uses advanced AI to manage a portfolio of assets that generate yield. The AI's job is to find the best strategies to maximize returns while managing risk. To keep this process secure, we use a Trusted Execution Environment (TEE), which is a secure and isolated space for our AI to run. This means:
 
-Leveraging cutting-edge analytics, Talos actively manages a diversified portfolio of yield-bearing assets. By deploying dynamic strategies, the protocol ensures maximum returns while effectively mitigating risk. The integration of Trusted Execution Environment (TEE) based execution enhances this process by providing a secure and isolated environment for critical computations. This TEE integration allows for:
+*   **Secure by Design:** The AI and its data are protected from outside attacks.
+*   **Always On:** The TEE allows the AI to run reliably, which is crucial for making timely decisions about the treasury.
+*   **Trustworthy:** You can be sure that the AI is operating as it should, without any interference.
 
-* **Secure Data Processing:** Sensitive data and AI models are processed in a secure enclave, reducing the risk of manipulation or external attacks.
-* **Protocol Autonomy:** TEE-based execution ensures that the AI agent operates with high reliability and low latency, essential for timely treasury rebalancing and strategy execution.
-* **Trustless Operations:** Users can trust that the underlying computations are executed as programmed, with minimal risk of tampering or external interference.
+### Community-Led Governance
 
-#### Decentralized Governance
+We believe that the community should be in charge. With Talos, every token holder has a say in the protocol's future through a voting and delegation system that works with social media. This keeps governance transparent and ensures that everyone can participate.
 
-Talos distributes decision-making power across its community. Through integrated social media-based voting and a delegation system, every token holder has a direct role in shaping the protocol's future. This decentralized approach ensures that governance remains transparent, participatory, and adaptive to evolving market conditions.
+### Yield-Driven Tokenomics
 
-#### Yield-Focused Tokenomics
+The Talos token is backed by a portfolio of assets that generate real income. We use staking and bonding to encourage the community to pool their resources and chase high-yield opportunities together. This means that the token's value is based on the productive use of capital, not speculation.
 
-At the heart of Talos is a native token backed by a robust portfolio of income-generating assets. Through innovative mechanisms such as bonding and staking, the protocol creates powerful incentives for the community to concentrate their capital into high-yield opportunities. The yield-focused design ensures that returns are driven by real, productive use of capital rather than speculative emissions.
+### The Stag Hunt: A Game of Cooperation
 
-#### Stag Hunt Dynamics
+Talos uses a "stag hunt" model to encourage cooperation. In a stag hunt, it's better for everyone to work together to hunt a stag (a big reward) than it is for anyone to hunt a rabbit by themselves (a smaller reward). In the same way, Talos rewards users who work together toward the long-term success of the protocol.
 
-Talos employs a stag hunt model to encourage deep, coordinated participation. By setting a higher cooperative reward outcome (10,10) versus a lower, non-cooperative baseline (3,3), the protocol aligns individual contributions with the collective goal of unlocking superior long-term rewards. This game-theoretic approach incentivizes participants to commit fully to the protocol’s vision, maximizing yield and enhancing overall treasury performance.
+### Focused on the Arbitrum Ecosystem
 
-#### Focus on the Arbitrum Ecosystem
+We're currently focused on finding yield-bearing opportunities in the Arbitrum ecosystem. Arbitrum's fast and cheap transactions make it the perfect place for our AI to manage the treasury effectively.
 
-Talos will concentrate its efforts on yield-bearing opportunities within the Arbitrum ecosystem. By tapping into Arbitrum’s scalable infrastructure and diverse DeFi landscape, Talos is well-positioned to leverage innovative yield strategies and provide enhanced value to its participants. The efficiency and low fees on Arbitrum create an ideal environment for dynamic, AI-driven treasury management.
+## Our Vision
 
-### The Talos Vision
-
-Talos is more than just a protocol—it is an evolving ecosystem where AI innovation meets decentralized collaboration. By aligning individual incentives with the collective good, Talos sets a new standard for secure, adaptive, and community-driven financial systems. With TEE-based execution ensuring robust protocol autonomy, Talos offers a pathway to meaningful, long-term engagement and growth, particularly within the dynamic environment of Arbitrum.
+Talos is more than just a protocol—it's a community where AI and people work together. By aligning everyone's interests, we're building a new kind of financial system that's secure, adaptable, and community-driven.
