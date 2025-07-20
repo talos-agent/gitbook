@@ -1,61 +1,45 @@
-# Governance
+# How Governance Works in Talos
 
-Talos utilizes an upgradeable governance framework that leverages social media for transparent, public decision-making. This system ensures that token stakers actively support their chosen delegates—referred to as governance stewards—who manage proposals and facilitate voting.
+Talos is governed by its community. We use a system that combines token staking with social media to make sure that everyone has a voice and that decisions are made in the open.
 
-### Key Components
+## The Basics
 
-#### 1. Token Staking and Delegation
+### 1. Staking and Delegation
 
-* **Staking Requirement:**\
-  Users stake tokens to gain voting power and commit to the governance process. This mechanism ensures that participants have a vested interest in the protocol's success.
-* **Delegates’ Role:**\
-  Delegates register their social media handles (initially on X/Twitter) to be publicly accountable, representing community sentiment and overseeing governance proposals.
-* **Delegation Incentives:**\
-  Active delegation is rewarded with enhanced voting power or additional token benefits, whereas non-delegators receive reduced rewards. This incentivizes responsible participation and active engagement.
-* **Equal Influence:**\
-  Every delegate wields equal influence, irrespective of the stake size, ensuring that governance remains balanced and community-focused.
+*   **Stake Your Tokens:** To vote, you need to stake your tokens. This shows that you have a vested interest in the future of the protocol.
+*   **Choose a Delegate:** You can delegate your vote to a "governance steward" who will vote on your behalf. These are community members who have registered their social media handles (starting with X/Twitter) to be publicly accountable.
+*   **Incentives for Delegating:** You'll get more rewards if you delegate your vote. If you don't delegate, you'll get fewer rewards. This encourages everyone to participate.
+*   **Everyone is Equal:** Every delegate has the same amount of power, no matter how many tokens they have staked. This keeps things fair and community-focused.
 
-#### 2. Social Media Integration for Voting
+### 2. Voting on Social Media
 
-* **Voting via Social Media:**\
-  Voting is conducted through social media polls on X/Twitter, with only registered delegates eligible to vote. This approach ties governance decisions to verifiable, public identities.
-* **Regular Steward Renewal:**\
-  A monthly voting process is implemented to ensure that delegates remain active and accountable. This regular renewal maintains the integrity and responsiveness of the governance system.
-* **Proposal Submission:**\
-  Anyone can submit proposals for consideration by the delgates
+*   **Public Voting:** All voting happens on X/Twitter polls, and only registered delegates can vote. This makes the whole process transparent and public.
+*   **Keeping Delegates Active:** We hold a vote every month to make sure that our delegates are still active and accountable.
+*   **Anyone Can Make a Proposal:** Anyone can submit a proposal for the delegates to consider.
 
-#### 3. Participation and Accountability Mechanisms
+### 3. Accountability
 
-* **Mandatory Voting:**\
-  Delegates are required to participate in every governance vote. Non-participation incurs penalties, enforcing a consistent level of engagement.
-* **Delegate Reassignment:**\
-  Inactive delegates can be replaced, ensuring that the pool of governance stewards remains dynamic and responsive to the community’s needs.
+*   **Voting is Mandatory:** Delegates have to vote on every proposal. If they don't, they'll be penalized.
+*   **Replacing Inactive Delegates:** If a delegate is inactive, they can be replaced. This keeps our governance system healthy and responsive.
 
-### Process Flow
+## The Process
 
-#### Onboarding and Staking
+### Getting Started
 
-* **Token Staking:**\
-  Users stake tokens to gain governance rights and select a delegate. The system of benefits and penalties encourages responsible delegation and active participation.
+*   **Stake Your Tokens:** Stake your tokens to get the right to vote and choose a delegate.
 
-#### Proposal Lifecycle
+### How a Proposal Becomes a Reality
 
-* **Submission:**\
-  Proposals are submitted with a nominal token deposit, ensuring that only serious ideas are considered.
-* **Community Screening:**\
-  Submitted proposals are screened by the community before being posted as social media polls.
-* **Voting:**\
-  Registered delegates participate in the voting process via X/Twitter polls, ensuring that decisions are made transparently and publicly.
+*   **Submission:** To submit a proposal, you need to make a small token deposit. This is to make sure that only serious proposals are considered.
+*   **Community Review:** The community will review all proposals before they are put to a vote.
+*   **The Vote:** The registered delegates will vote on the proposal using an X/Twitter poll.
 
-#### Post-Vote Enforcement
+### After the Vote
 
-* **Results Aggregation:**\
-  Voting outcomes are aggregated and published, offering clear insights into the community’s preferences.
-* **Reward Distribution:**\
-  Rewards are distributed to active participants, and penalties are imposed on non-participants to maintain high levels of accountability.
-* **Ongoing Steward Votes:**\
-  Monthly steward votes help maintain an active and accountable delegate pool, ensuring that governance remains effective and adaptive.
+*   **See the Results:** The results of the vote will be published for everyone to see.
+*   **Rewards and Penalties:** Rewards will be given to those who participated, and penalties will be given to those who didn't.
+*   **Monthly Delegate Votes:** We hold a vote every month to keep our pool of delegates active and accountable.
 
-### Conclusion
+## Our Goal
 
-Talos's upgradeable governance framework integrates token staking, social media-based voting, and robust accountability mechanisms to ensure transparent, responsible, and community-driven decision-making. This system aligns the interests of all participants, fostering a resilient and dynamic governance structure.
+We've designed our governance system to be transparent, responsible, and community-driven. By aligning everyone's interests, we can build a resilient and dynamic system that can adapt to whatever comes our way.
