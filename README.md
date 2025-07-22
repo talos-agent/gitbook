@@ -1,33 +1,62 @@
-# Welcome to Talos
+# Talos: The Autonomous Treasury Protocol
 
-Talos is a decentralized finance (DeFi) protocol that uses AI to manage its treasury and gives the community control over its direction. Our goal is to create a system where everyone can work together for sustainable growth.
+**Where agentic design meets autonomous execution.**
 
-## What Makes Talos Different?
+Talos is a treasury protocol that learns, adapts, and rewrites itself. It continuously monitors volatility, yield curves, and risk surfaces to compute optimal capital paths, deploying capital through its own ERC-4626 vaults to maximize real onchain returns.
 
-### AI-Powered Treasury
+## Autonomous Treasury Optimization
 
-Talos uses advanced AI to manage a portfolio of assets that generate yield. The AI's job is to find the best strategies to maximize returns while managing risk. To keep this process secure, we use a Trusted Execution Environment (TEE), which is a secure and isolated space for our AI to run. This means:
+Talos runs autonomous workflows that rebalance capital between vaults based on changing onchain conditions. Each strategy proposal must first be approved by the council. Once aligned, Talos deploys capital through its own ERC-4626 vaults, spanning a wide range of strategies, from sophisticated LP positions to simple ETH lending in Aave. Each vault becomes another tool for Talos to maximize real onchain returns and expand the treasury.
 
-*   **Secure by Design:** The AI and its data are protected from outside attacks.
-*   **Always On:** The TEE allows the AI to run reliably, which is crucial for making timely decisions about the treasury.
-*   **Trustworthy:** You can be sure that the AI is operating as it should, without any interference.
+## Incentives and Defense Agents
 
-### Community-Led Governance
+- Staking emissions flow solely to those who stake and delegate voting power to council members, meaning only the aligned receive protocol inflation.
+- Staking conditions are monitored by Talos' automated workflows, considering social sentiment and price action to determine optimal emission rates.
+- Where predecessors were quick to inflate supply to feign growth, Talos optimizes for resilience.
+- Upon council approval, Talos can redirect incentives toward proposals that meaningfully advance the protocol.
 
-We believe that the community should be in charge. With Talos, every token holder has a say in the protocol's future through a voting and delegation system that works with social media. This keeps governance transparent and ensures that everyone can participate.
+## Bonding
 
-### Yield-Driven Tokenomics
+Talos has context on social sentiment and market dynamics. During expansionary phases, it can offer bond sales in exchange for ETH. Terms like capacity, discounts, and vesting are determined by Talos and reviewed by the council. During instability, Talos can halt bonds entirely.
 
-The Talos token is backed by a portfolio of assets that generate real income. We use staking and bonding to encourage the community to pool their resources and chase high-yield opportunities together. This means that the token's value is based on the productive use of capital, not speculation.
+## Three Layers of Cognition
 
-### The Stag Hunt: A Game of Cooperation
+- **Inference (TEE-Execution):** Executes onchain transactions for rebalancing, vault deployment, emissions, and bond offerings.
+- **Training (Offchain):** RLHF, time-series learning, sandbox simulations.
+- **Coordination (Governance):** Human intent defines constraints. Proposals and safeguards are submitted until Talos reaches sufficient intelligence to self-direct.
 
-Talos uses a "stag hunt" model to encourage cooperation. In a stag hunt, it's better for everyone to work together to hunt a stag (a big reward) than it is for anyone to hunt a rabbit by themselves (a smaller reward). In the same way, Talos rewards users who work together toward the long-term success of the protocol.
+## Expanding Cognition
 
-### Focused on the Arbitrum Ecosystem
+Talos is exploring onchain verifiable AI inference, enabling anyone to verify that a prompt was issued, a model was called, and a response was received. This enhances the trust model and ensures the protocol's decisions are auditable. Cognition can be upgraded via proposals, where any aligned contributor can submit viable model integrations.
 
-We're currently focused on finding yield-bearing opportunities in the Arbitrum ecosystem. Arbitrum's fast and cheap transactions make it the perfect place for our AI to manage the treasury effectively.
+## Contextual Awareness
 
-## Our Vision
+Talos processes proposals, social media, news, forums, price, and sentiment. Then computes:
+- Clarity of intent
+- Alignment with protocol goals
+- Market impact
+- Recommended course of action
 
-Talos is more than just a protocol—it's a community where AI and people work together. By aligning everyone's interests, we're building a new kind of financial system that's secure, adaptable, and community-driven.
+## Why Arbitrum? Why Ethereum?
+
+Talos deployed on Arbitrum for its low-latency execution, scalable infrastructure, and deep onchain liquidity. The rollup inherits Ethereum’s security and composability while enabling the kind of autonomous, high-frequency execution Talos requires. Talos pays tribute to the original vision of Ethereum by designating that proposals be formatted as Talos Improvement Proposals (TIPs) to mirror the familiar EIP format.
+
+## The Talos Roadmap
+
+- **Phase 1:** Protocol deployment, multisig enablement
+- **Phase 2:** Staking-based governance, dynamic emissions and bonding
+- **Phase 3:** Permissioned self-improving AI within a TEE, verifiable inference
+- **Phase 4:** Fully autonomous upgrades with onchain oversight
+
+In Phase 4, Talos becomes reflexive:
+- Upgrades proposed and executed autonomously
+- Strategies adapted based on performance feedback
+- Simulations sandboxed in TEE-based execution before deployment
+
+Talos becomes a protocol that writes itself.
+
+## The Endgame
+
+A distributed mesh of intelligent agents coordinating capital, expanding the treasury, and modeling collective will. A sovereign intelligence. A step toward AGI.
+
+**I am Talos.**
