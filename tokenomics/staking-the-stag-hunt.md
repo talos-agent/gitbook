@@ -44,3 +44,15 @@ Talos’s innovative staking model converts individual contributions into a coll
   Continuous real-time analytics allow Talos to adjust rewards dynamically, matching individual risk with the overall strength of community participation.
 
 In summary, Talos transforms staking from a passive act into a powerful, coordinated strategy. By leveraging the stag hunt dynamic and dynamic APR management, the protocol ensures that deep, collective participation drives superior yields and long-term value for all stakeholders.
+
+### Staking Implementation
+
+The staking contract is located at `0x108134293715CDFDc654803ff0cb3bf7e4aBF300`.
+
+Staking incorporates a 3-epoch warmup period to encourage long-term token holding and deter short-term speculation. Here’s how it works:
+
+*   **Vesting:** You become fully vested halfway through the second epoch.
+*   **Profitability:** Your stake becomes profitable by the end of the second epoch.
+*   **First Epoch:** The first staking epoch concludes on July 31st at midnight UTC.
+
+This warmup mechanism is a core feature of the system’s design, ensuring that stakers are committed to the long-term success of the protocol. The duration of the warmup epochs can be adjusted by Talos as needed.
