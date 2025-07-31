@@ -1,26 +1,26 @@
 # Tokenomics
 
-Talos’s tokenomics are engineered to support its high-coordination, high-yield model. The native TALOS token underpins the entire ecosystem—serving as both the medium of exchange and the unit of governance. Here’s how it all comes together:
+The Talos tokenomics are designed to support our high-yield, cooperative model, with the AI Protocol Owner at the center. The native TALOS token is the backbone of the ecosystem, used for both governance and staking. Here’s how it works:
 
-### Treasury-Backed Value
+### Backed by a Strong Treasury
 
-* **Asset-Backed Security:**\
-  TALOS is backed by a diversified treasury of yield-bearing assets native to the Arbitrum ecosystem. This tangible reserve creates a floor of intrinsic value that grounds the token’s market price.
-* **Dynamic Supply and Reward Distribution:**\
-  Staking rewards are dynamically minted along a bonding curve, which scales with the level of cooperative staking. As more users stake and the treasury grows, the protocol mints additional tokens proportionally—ensuring that rewards are value-supported rather than purely inflationary.
+* **Real-Asset Backing:**\
+  TALOS is backed by a diversified treasury of yield-bearing assets from the Arbitrum ecosystem. This treasury provides a baseline of intrinsic value for the token.
+* **Smart Supply and Rewards:**\
+  Staking rewards are issued based on a bonding curve that scales with cooperative staking. As more users stake and the treasury grows, the protocol issues new tokens in proportion, ensuring that rewards are backed by real value, not just inflation.
 
-### Protocol-Owned Liquidity and Capital Efficiency
+### Efficient Capital and Liquidity
 
-* **Pooling and Efficient Deployment:**\
-  By owning significant liquidity and pooling assets, Talos can deploy capital across a suite of yield strategies with greater efficiency. This shared pool minimizes risk while maximizing returns.
-* **Value Accrual:**\
-  As the treasury earns yield, profits are either reinvested or used to buy back TALOS tokens, thereby increasing their backing. This continuous value loop ensures that long-term stakers benefit directly from the protocol’s success.
+* **Pooled Resources:**\
+  By owning its own liquidity and pooling assets, Talos can deploy capital more efficiently across various yield strategies, minimizing risk and maximizing returns.
+* **Value Growth:**\
+  As the treasury earns yield, profits are either reinvested or used to buy back TALOS tokens, increasing the token's backing. This creates a positive feedback loop that benefits long-term stakers.
 
 ### Governance and Utility
 
-* **Unified Token Model:**\
-  TALOS serves both as a governance token and as a means to access staking rewards. This unified approach prevents utility fragmentation and concentrates value within a single asset.
-* **Demand and Sinking Mechanisms:**\
-  Additional use cases (such as collateral for vault access or fee reductions) create organic demand, ensuring that the token’s value is sustained as the ecosystem grows.
+* **A Single, Powerful Token:**\
+  TALOS is used for both governance and staking rewards. This unified model prevents fragmentation and concentrates value in a single asset.
+* **Built-in Demand:**\
+  Additional uses for the token, like collateral for vault access or fee reductions, create natural demand, helping to sustain the token's value as the ecosystem expands.
 
-Talos’s tokenomics are designed to create a **self-reinforcing economy**: the more the community collaborates through staking and active governance, the stronger the treasury grows, which in turn enhances token value and rewards.
+The Talos tokenomics create a **self-reinforcing economy**: the more the community works together through staking and governance, the stronger the treasury becomes, which in turn increases the token's value and rewards.

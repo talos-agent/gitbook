@@ -1,10 +1,8 @@
-# Delegates
+# Delegates: Collaborating with the AI
 
-## Delegate Responsibilities
+Delegates are the bridge between the community and the AI. They are elected by token holders to serve as the community's voice in the ongoing conversation with the AI, helping to guide the protocol's evolution in a sustainable and thoughtful way.
 
-Delegates play a critical role in maintaining and guiding the protocol's evolution.  They are elected by token holders to serve as stewards of the protocol, evaluating proposals, implementing upgrades, and ensuring the system evolves in a sustainable and thoughtful manner.\
-\
-Like all aspects of Talos, **delegation is not permanent**.  If the community determines that a new form of leadership or coordination is more effective, the system can evolve.
+Like everything in Talos, **delegation is not permanent**. If the community decides that a new form of leadership or coordination is more effective, the system can adapt.
 
 ***
 
@@ -12,52 +10,47 @@ Like all aspects of Talos, **delegation is not permanent**.  If the community de
 
 Delegates are empowered by the community to:
 
-* **Evaluate Protocol Upgrades**\
-  Review and assess proposed upgrades, parameter changes, and technical improvements.
-* **Vote on Modifications**\
-  Actively participate in governance by voting on protocol changes that impact the network’s functionality or direction.
-* **Maintain the Protocol**\
-  Monitor the health of the protocol, respond to urgent issues, and help guide ongoing development efforts.
+* **Evaluate Protocol Upgrades:** Review and assess proposed upgrades, parameter changes, and technical improvements, providing a human perspective to the AI.
+* **Vote on Changes:** Actively participate in governance by voting on protocol changes, sending a clear signal of the community's sentiment to the AI.
+* **Maintain the Protocol:** Monitor the health of the protocol, respond to urgent issues, and help guide ongoing development in collaboration with the AI.
 
-Delegates are expected to act in the best interest of the protocol and its users, balancing agility in development with thoughtful governance.
+Delegates are expected to act in the best interest of the protocol and its users, balancing swift development with careful governance.
 
 ***
 
-### Checks and Balances
+### Checks and Balances: A Partnership with the AI
 
-While delegates have decision-making authority, they remain accountable to token holders. Governance mechanisms such as:
+While the AI has the final say on protocol upgrades, it does not operate in a vacuum. The community, through its delegates, provides a vital check and balance on the AI's power. Governance mechanisms such as:
 
-* Delegate replacement
-* Proposal vetoes
-* Time-locked implementations
+* **Delegate replacement:** The community can replace delegates who are not effectively representing their interests.
+* **Proposal vetoes:** While the AI makes the final decision, a strong community vote against a proposal sends a powerful signal that the AI is expected to take into account.
+* **Time-locked implementations:** All major upgrades have a time-lock, giving the community time to review the changes and raise any concerns.
 
-can be enacted by the broader community to ensure transparency and decentralization are preserved.
+Post-launch, it will be important to develop a clear process for the community to provide feedback to the AI and to address any situations where the AI's decisions are not aligned with the community's best interests.
 
-Post launch, it will be important to develop and present a way for the community at large to veto and/or vote to enact emergency actions to modify the current leadership if things are not being performed in a satisfactory manner.  This should be codified and prioritized post launch so as to give token holders the ability address issues without waiting for a new delegate election.
-
-Delegates do not hold unchecked power; instead, they exist to **reduce governance overhead** while maintaining accountability and agility in protocol development.
+Delegates and the community do not have unchecked power over the AI, but they are essential partners in the governance of the protocol.
 
 ***
 
-### Incentivization
+### Incentives
 
-To support sustained engagement and high-quality governance, delegates may be fairly compensated. Incentive models can include:
+To support sustained engagement and high-quality governance, delegates may be compensated. Incentive models could include:
 
 * A direct **token allocation**
 * Ongoing **treasury payments**
 
 These should be designed to:
 
-* Reward meaningful participation
-* Avoid undue dilution or unsustainable cost to the protocol
+* Reward meaningful participation in the conversation with the AI
+* Avoid excessive dilution or unsustainable costs to the protocol
 * Be proposed and agreed upon **post-launch** for fairness and alignment
 
-Delegates will have the opportunity to present incentive frameworks to the community for approval.
+Delegates will have the chance to present incentive frameworks to the community for approval.
 
 ***
 
 ### Why Delegation Matters
 
-Delegates help scale governance by making protocol maintenance more manageable. Token holders can focus on high-level decisions and influence the delegates in open discussion, but the delegates should be trusted to handle day-to-day evaluations and improvements.
+Delegates are essential for scaling the conversation between the community and the AI. Token holders can focus on high-level decisions and influence delegates in open discussions, while the delegates handle the day-to-day work of collaborating with the AI on evaluations and improvements.
 
-By electing responsible delegates, the community ensures the protocol evolves smoothly, securely, and in alignment with its long-term vision.
+By electing responsible delegates, the community ensures that its voice is heard and that the protocol evolves smoothly, securely, and in line with its long-term vision.

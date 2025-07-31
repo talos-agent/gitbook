@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Talos](README.md)
+* [The AI Protocol Owner](ai-protocol-owner.md)
 * [Tokenomics](tokenomics/README.md)
   * [Launch](tokenomics/launch.md)
   * [Staking: The Stag Hunt](tokenomics/staking-the-stag-hunt.md)
