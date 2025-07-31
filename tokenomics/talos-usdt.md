@@ -11,24 +11,24 @@
 
 ### Introduction
 
-The **Talos Token (TALOS)** is the core asset powering the Talos Protocol — a next-generation ecosystem built to unlock value through decentralized coordination. TALOS was launched on **Arbitrum** on July 15, 2025, with a fixed maximum supply of **300 million tokens**.
+The **Talos Token (TALOS)** is the core asset of the Talos Protocol, a next-generation ecosystem designed to unlock value through decentralized coordination. TALOS was launched on **Arbitrum** on July 15, 2025, with a fixed maximum supply of **300 million tokens**.
 
-To establish a sustainable foundation for growth, the launch incorporated a **12-hour descending tax mechanism**. This approach generated the initial protocol treasury while ensuring early price stability and fairer distribution dynamics.
+To build a sustainable foundation for growth, the launch included a **12-hour descending tax mechanism**. This approach helped generate the initial protocol treasury while ensuring early price stability and a fairer distribution.
 
 ***
 
 ### Token Allocation
 
 * **Team Allocation:** 5% (15,000,000 TALOS)\
-  Reserved to support long-term development, infrastructure, and growth. Tokens allocated to the team are subject to time-based vesting to ensure long-term alignment with the protocol’s success.
+  This is reserved to support long-term development, infrastructure, and growth. Team tokens are subject to time-based vesting to ensure they are aligned with the protocol’s long-term success.
 
 ***
 
 ### Key Highlights
 
-* **Mintable:** The token is mintable to support future growth opportunities
-* **Fair Launch Dynamics:** A timed tax mechanism protected early buyers while bootstrapping the treasury.
-* **Builder-Aligned Incentives:** Team allocation is modest and structured for sustainability.
+* **Mintable:** The token can be minted to support future growth opportunities.
+* **Fair Launch:** A timed tax mechanism protected early buyers while bootstrapping the treasury.
+* **Builder-Friendly Incentives:** The team allocation is modest and structured for sustainability.
 
 ***
 

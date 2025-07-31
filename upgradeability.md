@@ -1,101 +1,55 @@
 # Upgradeability
 
-### Overview
+## A Protocol That Evolves
 
-Talos is built to adapt. As the protocol grows, so too must the intelligence that manages its treasury. The **Talos AI Agent** is designed to evolve in response to new strategies, emerging technologies, and changing market conditions. Upgradeability is a first-class citizen in the system—made possible through **modular smart contracts** and an active, **decentralized governance layer**.
-
-***
-
-### Modular & Upgradeable Architecture
-
-Talos is structured to allow seamless upgrades without disrupting ongoing operations.
-
-* **Modular Contracts:** Core functionality is split into upgradable modules.
-* **Composable Strategies:** ERC4626 vaults allow plug-and-play support for new strategies.
-* **Safe Evolution:** Changes are versioned and auditable, with rollback support in case of emergency.
-
-This ensures that the AI agent’s logic, models, and data flows can evolve over time without a full redeploy.
+Talos is built to adapt. The protocol is designed to be self-upgrading, with the AI at the heart of its own evolution. This is made possible by a modular architecture and the secure environment of the Trusted Execution Environment (TEE).
 
 ***
 
-### Governance-Driven AI Evolution
+### The Self-Upgrade Mechanism
 
-The AI agent that powers Talos isn’t static—it grows smarter with every governance cycle.
+The AI's ability to upgrade itself is the core of Talos's long-term vision. Here's how it works:
 
-#### How Governance Fuels AI Upgradeability
-
-* **Propose Upgrades**\
-  Any token holder can submit proposals for agent improvements, including:
-  * New investment strategies
-  * Risk tolerance adjustments
-  * Data sources or oracles
-  * Reward distribution logic
-  * Behavioral changes in volatile conditions
-* **Delegate-Led Review**\
-  Delegates evaluate and endorse proposals, adding human oversight before implementation.
-* **Vote via X (Twitter)**\
-  All upgrades pass through a transparent, public voting process on X.
-  * Polls are only open to registered stewards.
-  * On-chain logic tracks outcomes and triggers upgrades after passing thresholds.
-* **Continuous Feedback Loops**\
-  Regular delegate elections and participation-based incentives ensure upgrades are evaluated frequently and with fresh perspective.
+1.  **Proposals:** New ideas for upgrades can be submitted by anyone. This includes community members, developers, and even other AIs. The AI can also generate its own proposals for improvements based on its analysis of the protocol's performance and the market.
+2.  **AI Review in the TEE:** All proposals are reviewed by the AI from within the TEE. The AI can analyze the code for security vulnerabilities, run simulations to test its impact, and assess its overall benefit to the protocol.
+3.  **Autonomous Approval:** The AI has the authority to approve or reject proposals on its own. This decision is based on a rigorous analysis of the proposal's merits and its alignment with the long-term health of the protocol.
+4.  **Implementation:** Once a proposal is approved, the AI can implement the upgrade, deploying the new code and updating the protocol.
 
 ***
 
-### Talos as a Nomic Protocol
+### The Role of the Community
 
-Talos embodies the principles of a nomic system—where the rules of the game are not static but subject to continuous evolution through the very processes they establish.
+While the AI is the primary driver of the upgrade process, the community still plays a critical role. The community is a vital source of new ideas and a key partner in the governance of the protocol. The community can:
 
-* **Self-Modifying Rules:**\
-  The protocol’s governance framework is designed to be inherently flexible. Changes to the rules governing the AI agent and treasury management can be proposed and enacted by the community, allowing Talos to adapt its own mechanics over time.
-* **Dynamic Rulemaking:**\
-  Similar to the game of Nomic, every participant in Talos has the opportunity to influence the rules. Whether it’s refining investment strategies or updating security measures, every approved proposal contributes to a continuously evolving protocol.
-* **Empowering Collective Evolution:**\
-  By allowing token holders and delegates to directly impact the operational logic, Talos ensures that the system can self-correct and improve autonomously. This adaptability is central to managing the complex, shifting landscape of decentralized finance.
-* **Transparent & Iterative Process:**\
-  All changes are recorded on-chain and made public through social media integration, ensuring that the evolution of the protocol is transparent and subject to community scrutiny. This creates an environment where innovation is encouraged and the protocol is always in a state of improvement.
+*   **Submit proposals:** The community can propose new features, bug fixes, and other improvements to the protocol.
+*   **Provide feedback:** The community can provide feedback on the AI's decisions and help to shape the future direction of the protocol.
+*   **Collaborate with the AI:** The community and the AI work together to ensure that the protocol is always evolving in a way that benefits all stakeholders.
 
 ***
 
-### Contribution Channels
+### Safeguards and Security
 
-Talos transforms its community into a network of intelligence contributors.
+Upgradeability is essential, but it must be managed safely. Talos includes several safeguards to ensure the security and stability of the protocol:
 
-* **Training Data Contributions:**\
-  Token holders may supply signals, analytics, or datasets that help refine the AI.
-* **Simulation Results:**\
-  Backtested strategies or simulations can be attached to proposals to support suggested upgrades.
-* **Open Agent Development:**\
-  The AI core is open source and modular, allowing external developers to suggest or fork new agent logic.
+*   **Time-Delayed Execution:** All critical upgrades have a built-in delay before they are activated. This allows the community to review the changes and raise any concerns.
+*   **Emergency Pauses:** The protocol includes a mechanism for the community to pause upgrades in the event of a bug or other emergency.
+*   **TEE Security:** The TEE provides a high level of security, ensuring that the AI's decisions cannot be tampered with.
 
 ***
 
-### Safeguards & Security
+### The Vision: A Fully Autonomous Protocol
 
-Upgradeability doesn’t mean instability. Talos includes mechanisms to keep governance secure:
+Our vision is to create a fully autonomous protocol that can evolve and adapt on its own. The roadmap below outlines our path to achieving this goal:
 
-* **Time-Delayed Execution:**\
-  All critical upgrades have a built-in delay before activation to allow for community inspection.
-* **Slashing for Malicious Behavior:**\
-  Delegates who vote for harmful or spammy upgrades risk losing part of their stake.
-* **Emergency Pauses:**\
-  The protocol retains the ability to temporarily pause AI agent upgrades under community consensus in case of bugs or unexpected behavior.
-
-***
-
-### Roadmap to Autonomous AI
-
-| Phase       | Description                                                            |
-| ----------- | ---------------------------------------------------------------------- |
-| **Phase 1** | Manual proposals for AI behavior, reviewed by multisig + delegate vote |
-| **Phase 2** | Community-driven upgrades and live strategy updates via governance     |
-| **Phase 3** | Self-improving AI agent with permissioned strategy experimentation     |
-| **Phase 4** | Fully autonomous agent proposing and executing upgrades with oversight |
-
-
+| Phase       | Description                                                                 |
+| ----------- | --------------------------------------------------------------------------- |
+| **Phase 1** | AI-managed treasury with community-led proposals for upgrades.              |
+| **Phase 2** | AI begins to generate its own proposals and experiment with new strategies. |
+| **Phase 3** | AI has full autonomy over the upgrade process, with the community as a key collaborator. |
+| **Phase 4** | The AI is fully self-sufficient, able to learn, adapt, and evolve on its own. |
 
 ***
 
 ### Summary
 
-Talos is more than a yield aggregator—it's a self-evolving organism. The protocol’s **upgradeable AI agent** learns from the community, adapts through governance, and drives collective value creation. With a modular framework, active social-based governance, and a nomic design that allows its rules to evolve, Talos is designed to continuously improve—setting a new standard for agentic DeFi protocols.
+Talos is more than just a DeFi protocol; it's a living, evolving system. By giving the AI the power to upgrade itself, we are creating a new kind of organization, one that is more adaptable, resilient, and decentralized than anything that has come before.
